@@ -30,66 +30,8 @@ print(f'O/A {nome}, gostou do programa?')
 sim_ou_nao = input("sim ou não?")
 
 
-input("Obrigado por participar!")
+print("Obrigado por participar!")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("Tchau obrigado")
 
