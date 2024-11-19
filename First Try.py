@@ -33,5 +33,3 @@ sim_ou_nao = input("sim ou não?")
 print("Obrigado por participar!")
 
 
-print("Tchau obrigado")
-
