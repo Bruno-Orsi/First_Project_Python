@@ -122,11 +122,11 @@ print(f" A soma dos números {num1}, {num2}, {num3} é de {soma}")
 
 print("informe 3 números inteiros:")
 
-numero1: int = int(input('Informe o primeiro número:'))
+numero1 = int(input('Informe o primeiro número:'))
 
-numero2: int = int(input('Informe o segundo número:'))
+numero2 = int(input('Informe o segundo número:'))
 
-numero3: int = int(input('Informe o terceiro número:'))
+numero3 = int(input('Informe o terceiro número:'))
 
 soma: int = (numero1 * numero1) + (numero2 * numero2) + (numero3 * numero3)
 
