@@ -98,8 +98,10 @@ Exercicios para praticar
 
 3 -  Faça um programa que recebe três valores e apresente a soma dos quadrados dos valores lidos
 """
+
 # 1-) 
-numero: int = int(input("Informe um número inteiro:"))
+
+numero = int(input("Informe um número inteiro:"))
 
 print(numero)
 
@@ -107,11 +109,11 @@ print(numero)
 
 print("Informe 3 números inteiros:")
 
-num1: int = int(input("1 número inteiro:"))
+num1 = int(input("1 número inteiro:"))
 
-num2: int = int(input("2 número inteiro:"))
+num2 = int(input("2 número inteiro:"))
 
-num3: int = int(input("3 número inteiro:"))
+num3 = int(input("3 número inteiro:"))
 
 soma = int(num1 + num2 + num3)
 
@@ -131,6 +133,9 @@ numero3 = int(input('Informe o terceiro número:'))
 soma: int = (numero1 * numero1) + (numero2 * numero2) + (numero3 * numero3)
 
 print(f" a soma dos quadrados dos números {numero1} com {numero2} e {numero3} é {soma}") 
+
+
+
 
 
 
